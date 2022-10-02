@@ -1,32 +1,17 @@
-h1 {
-  color: blue;
-  font-size: 20px;
-  text-align: center;
-}
-
-h2 {
-  color: blue;
-  font-size: 20px;
-  text-align: center;
-}
-
-.abstract {
-  color: gray;
-}
-
-#topNews {
-  color: red;
-}
-
-.firstref {
-  font-size: 10px;
-}
-
-.lastref {
-  font-size: 10px;
-}
-
 img {
   width: 100px;
   height: 100px;
+}
+
+body {
+  color: red;
+  border: 1px solid red;
+}
+
+a {
+  color: inherit;
+}
+
+h2 {
+  color: initial;
 }
