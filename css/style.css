@@ -1,23 +1,32 @@
-h2 {
-  color: green;
-  font-size: 18px;
-  text-align: center;
-}
-
 h1 {
   color: blue;
   font-size: 20px;
   text-align: center;
 }
 
-p {
-  color: yellow;
-  font-size: 14px;
-  text-align: right;
+h2 {
+  color: blue;
+  font-size: 20px;
+  text-align: center;
+}
+
+.abstract {
+  color: gray;
+}
+
+#topNews {
+  color: red;
+}
+
+.firstref {
+  font-size: 10px;
+}
+
+.lastref {
+  font-size: 10px;
 }
 
 img {
   width: 100px;
   height: 100px;
-  object-fit: contain;
 }
