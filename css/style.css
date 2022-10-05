@@ -52,8 +52,13 @@ body {
   line-height: 1.6;
 }
 
+/* Лайфхак для домашки 2 */
 .roolsItem {
+  max-width: 1200px; /* обмежити ширину блока */
+  width: 100%;
+  margin: 0 auto; /* розташувати цей блок посередині, встановив збоків автоматичні (тут однакові) марджини */
   text-align: center;
+  padding: 15px;
   padding-top: 40vh;
 }
 
